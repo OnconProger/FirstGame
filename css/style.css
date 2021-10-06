@@ -1,0 +1,35 @@
+h1{
+    font-size: 80px;
+    color: aqua;
+}
+h2{
+    color: aqua;
+}
+body{
+    background: #000;
+    
+}
+.container{
+    text-align: center;
+    display: block;
+}
+p{
+    color: aqua;
+    font-size: 25px;
+}
+input{
+    width: 250px;
+    height: 46px;
+    border: 1px solid #fff;
+    margin: 0;
+}
+button{
+    width: 100px;
+    height: 50px;
+    border: 1px solid #fff;
+    background: #000;
+    color: #fff;
+}
+.oncon{
+    padding-top: 300px;
+}
